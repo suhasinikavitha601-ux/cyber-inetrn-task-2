@@ -1,0 +1,7 @@
+Vulnerability Scan Report
+Target: 127.0.0.1
+----------------------
+Port 135 OPEN
+Port 445 OPEN
+Port 1521 OPEN
+Port 8080 OPEN
